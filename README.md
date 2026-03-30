@@ -8,6 +8,9 @@ A compact MIDI control console designed for piHPSDR, based on RP2040.
 
 Encoders 2–5 include push buttons. When pressed, each encoder can act as an additional virtual encoder.
 
+The console is easy to configure directly in piHPSDR using its built-in MIDI learning function.
+Each button and encoder can be freely assigned to any function.
+
 A CNC handwheel encoder is used for VFO control. For smooth operation, the detent mechanism was removed.
 Other encoders are standard low-cost units with integrated push buttons.
 
