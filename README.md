@@ -33,5 +33,5 @@ Output UF2:
     
 ## Programing RP2040
 1) Connect RP2040 via USB cable to PC with BOOT button pressed on RP2040
-2) 2) Copy output file (build/rbc_midi_pico.uf2) to mass storage of RP2040
+2) Copy output file (build/rbc_midi_pico.uf2) to mass storage of RP2040
 3) Enjoy!
