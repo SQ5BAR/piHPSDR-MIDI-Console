@@ -1,6 +1,8 @@
 # RBC MIDI Pico (RP2040) - MIDI Console for piHPSDR
 
 A compact MIDI control console designed for piHPSDR, based on RP2040.
+![1000032406](https://github.com/user-attachments/assets/7355dd38-ab3d-4601-9d3b-30819ccc2b62)
+![1000032407](https://github.com/user-attachments/assets/973bb262-4eb0-4da8-91bb-ad42e5ed375c)
 
 ## Features
 - 16-button matrix keypad (4x4)
