@@ -5,14 +5,14 @@
 - toolchain: gcc-arm-none-eabi, cmake
 
 Install:
-    sudo apt update
-    sudo apt install -y cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential git
+sudo apt update
+sudo apt install -y cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential git
     
 Pico SDK:
-    cd ~
-    git clone https://github.com/raspberrypi/pico-sdk.git
-    cd pico-sdk
-    git submodule update --init --recursive
+cd ~
+git clone https://github.com/raspberrypi/pico-sdk.git
+cd pico-sdk
+git submodule update --init --recursive
 
 ## Build
 From project folder:
