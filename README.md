@@ -1,4 +1,4 @@
-# RBC MIDI Pico (RP2040) - 5 encoders (with shift) + 4x4 keypad -> USB-MIDI
+# RBC MIDI Pico (RP2040) - 5 encoders (with shift) + 4x4 matrix keypad -> USB-MIDI
 
 ## Requirements (Linux)
 - pico-sdk
@@ -7,7 +7,7 @@
 Install:
 sudo apt update
 sudo apt install -y cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential git
-    
+
 Pico SDK:
 cd ~
 git clone https://github.com/raspberrypi/pico-sdk.git
