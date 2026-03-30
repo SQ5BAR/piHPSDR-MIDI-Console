@@ -62,6 +62,13 @@ sudo apt update
 sudo apt install -y cmake gcc-arm-none-eabi libnewlib-arm-none-eabi build-essential git
 ```
 
+### Clone repository
+
+```bash
+git clone https://github.com/SQ5BAR/piHPSDR-MIDI-Console.git
+cd piHPSDR-MIDI-Console
+```
+
 ## Pico SDK
 
 ```bash
