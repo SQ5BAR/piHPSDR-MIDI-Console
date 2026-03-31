@@ -5,6 +5,9 @@ A compact MIDI control console designed for piHPSDR, based on RP2040.
 
 ![1000032407](https://github.com/user-attachments/assets/973bb262-4eb0-4da8-91bb-ad42e5ed375c)
 
+<img width="902" height="631" alt="Zrzut ekranu z 2026-03-31 12-15-01" src="https://github.com/user-attachments/assets/a1cf056e-2424-40a3-be8c-c5088af72df3" />
+
+
 ## Features
 - 16-button matrix keypad (4x4)
 - 5 rotary encoders
