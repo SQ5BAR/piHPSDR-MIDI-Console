@@ -1,6 +1,6 @@
-# RBC MIDI Pico (RP2040) - MIDI Console for piHPSDR
+# RBC MIDI Pico (RP2040) - MIDI Console for piHPSDR and Radioberry
 
-A compact MIDI control console designed for piHPSDR, based on RP2040.
+A compact MIDI control console designed for piHPSDR and Radioberry, based on RP2040.
 <img width="1189" height="450" alt="Zrzut ekranu z 2026-03-31 12-58-39" src="https://github.com/user-attachments/assets/3ab81dd0-f35c-4516-b3b3-90445e27155e" />
 
 ![1000032407](https://github.com/user-attachments/assets/973bb262-4eb0-4da8-91bb-ad42e5ed375c)
